@@ -1,0 +1,1 @@
+[![Build Status](https://travis-ci.org/carlosjfernandes/container.svg?branch=master)](https://travis-ci.org/carlosjfernandes/container)
